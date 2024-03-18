@@ -1,8 +1,9 @@
 # Tableau-Project-Comparison-of-Region-Based-on-Sales
-DESCRIPTION
+SUMMARY
 
-The director of a leading organization wants to compare the sales between two regions. He has asked each region operators to record the sales data to compare by region. The upper management wants to visualize the sales data using a dashboard to understand the performance between them and suggest the necessary improvements.
+A top organization's director wants to compare sales figures between two regions. In order to compare sales data by region, he has ordered each operator in each region to record it. The aim of the dashboard visualization of sales data is to help upper management identify areas for development and have a better understanding of their respective performances.
 
-Objective: Help the organization by creating a dashboard to visualize the sales comparison between two selected regions.
+
+Objective: Assist the company by building a dashboard that compares sales data for two chosen regions.
 
 Datasets: Sample Superstore
